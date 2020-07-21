@@ -112,11 +112,12 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<start-class>com.restcalculator.app.app</start-class>
-		
-		
-		<sonar.projectKey>eidermauricio_restcalculator</sonar.projectKey>
-		<sonar.organization>eidermauricio</sonar.organization>
+				
+		<sonar.projectKey>pruebasonar-01_restcalculator</sonar.projectKey>
+		<sonar.organization>pruebasonar-01</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>594e80b4479b4397cafbc4c6659d000a6d45e109</sonar.login>
+		<sonar.login>163e2e855a387180d5f3035296f9b6ea9478d49a</sonar.login>
+
+		
 	</properties>
 </project>
