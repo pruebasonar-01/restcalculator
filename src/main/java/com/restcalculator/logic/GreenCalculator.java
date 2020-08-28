@@ -19,6 +19,11 @@ public class GreenCalculator {
 	public long number9;
 	public long number10;
 	
+	public long number7;
+	public long number8;
+	
+	public long number9;
+	public long number10;
 	
 	public GreenCalculator()
 	{
