@@ -7,6 +7,8 @@ public class GreenCalculator {
 	public long number1;
 	public long number2;
 	
+	public long number;
+	public long number3;
 	
 		
 	public GreenCalculator()
