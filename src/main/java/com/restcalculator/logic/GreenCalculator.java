@@ -13,11 +13,6 @@ public class GreenCalculator {
 	public long number4;
 	public long number5;
 	
-	public example()
-	{
-	}
-
-
 		
 	public GreenCalculator()
 	{
